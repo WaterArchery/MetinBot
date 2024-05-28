@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetinLitBot", "MetinLitBot\MetinLitBot.csproj", "{4E4CC12D-1860-4589-9A46-5DFDB5612876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4CC12D-1860-4589-9A46-5DFDB5612876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4CC12D-1860-4589-9A46-5DFDB5612876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4CC12D-1860-4589-9A46-5DFDB5612876}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4CC12D-1860-4589-9A46-5DFDB5612876}.Debug|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
